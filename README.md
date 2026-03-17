@@ -15,5 +15,8 @@ This project predicts customer churn using an Artificial Neural Network.
 ## 🎯 Result
 Achieved ~85% accuracy
 
+## Link of the Notebook
+https://colab.research.google.com/drive/16HRDjOCnNUz_PVGEyFTVvz5NCfSqOuT_?usp=sharing 
+
 ## 🚀 Author
 Shagun Ojha
